@@ -1,0 +1,12 @@
+
+# path to cahc directory, uncomment to override.
+# ABSOLUTE PATH ONLY
+# cache_dirctory: cache/
+
+# path to content directory, uncomment to override.
+# ABSOLUTE PATH ONLY
+# content_dirctory: ./content/
+
+# your markdown file extension.
+# ex: md, mdown, markdown or txt
+markdown_extension: md 
